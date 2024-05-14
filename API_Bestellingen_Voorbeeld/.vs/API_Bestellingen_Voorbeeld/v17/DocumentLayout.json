@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Migrations\\20240513135741_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240513135741_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Migrations\\20240513140215_initialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240513140215_initialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\data\\bestellingvoorbeeldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:data\\bestellingvoorbeeldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\api_bestellingen_voorbeeld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:api_bestellingen_voorbeeld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\models\\bestelling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:models\\bestelling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|c:\\thomas more\\24-25\\mvc_24_25\\api_bestellingen_voorbeeld\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6996B3-51E5-4483-8C8E-2758F7D9F72A}|API_Bestellingen_Voorbeeld.csproj|solutionrelative:models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240513140215_initialCreate2.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Migrations\\20240513140215_initialCreate2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240513140215_initialCreate2.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Migrations\\20240513140215_initialCreate2.cs",
+              "RelativeToolTip": "Migrations\\20240513140215_initialCreate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:02:15.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240513135741_initialCreate.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Migrations\\20240513135741_initialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240513135741_initialCreate.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Migrations\\20240513135741_initialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240513135741_initialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:57:41.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T13:48:28.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:20:36.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:03:27.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:02:13.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BestellingVoorbeeldContext.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Data\\BestellingVoorbeeldContext.cs",
+              "RelativeDocumentMoniker": "Data\\BestellingVoorbeeldContext.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Data\\BestellingVoorbeeldContext.cs",
+              "RelativeToolTip": "Data\\BestellingVoorbeeldContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:43:36.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "API_Bestellingen_Voorbeeld",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\API_Bestellingen_Voorbeeld.csproj",
+              "RelativeDocumentMoniker": "API_Bestellingen_Voorbeeld.csproj",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\API_Bestellingen_Voorbeeld.csproj",
+              "RelativeToolTip": "API_Bestellingen_Voorbeeld.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T13:18:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bestelling.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Models\\Bestelling.cs",
+              "RelativeDocumentMoniker": "Models\\Bestelling.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Models\\Bestelling.cs",
+              "RelativeToolTip": "Models\\Bestelling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:58:01.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:55:45.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Thomas More\\24-25\\MVC_24_25\\API_Bestellingen_Voorbeeld\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "Models\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:54:12.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
