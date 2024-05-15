@@ -1,6 +1,21 @@
 ## Entity framework
 
-### Hello world
+### Wat is Entity Framework?
+
+
+### Installatie van Entity Framework
+
+
+### Ophalen van een volledige lijst van objecten
+
+
+### Ophalen van 1 object
+
+
+### Filteren van resultaten
+
+
+### Async??
 
 codeblock:
 ```
@@ -12,8 +27,8 @@ codeblock:
 ```
 
 Checklist Entity Framework:
-- [ ] Abc
-- [ ] Abc
-- [ ] Abc
-- [ ] Abc
-- [ ] Abc
+- [ ] Wat is Entity Framework?
+- [ ] Installatie van Entity Framework
+- [ ] Ophalen van een volledige lijst van objecten
+- [ ] Ophalen van 1 object
+- [ ] Filteren van resultaten

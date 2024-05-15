@@ -1,6 +1,27 @@
 ## API
 
-### Hello world
+### Wat is een API?
+
+
+### Aanmaken nieuw project
+
+
+### Methode voor ophalen van een lijst aan objecten
+
+
+### Methode voor ophalen van 1 object
+
+
+### Methode voor aanmaken van 1 object
+
+
+### Methode voor aanpassen van 1 object
+
+
+### Methode voor verwijderen van 1 object
+
+### Request? Responses? 
+
 
 codeblock:
 ```
@@ -12,8 +33,10 @@ codeblock:
 ```
 
 Checklist API:
-- [ ] Abc
-- [ ] Abc
-- [ ] Abc
-- [ ] Abc
-- [ ] Abc
+- [ ] Wat is een API?
+- [ ] Aanmaken nieuw Web API project
+- [ ] Methode voor ophalen van een lijst aan objecten
+- [ ] Methode voor ophalen van 1 object
+- [ ] Methode voor aanmaken van 1 object
+- [ ] Methode voor aanpassen van 1 object
+- [ ] Methode voor verwijderen van 1 object
