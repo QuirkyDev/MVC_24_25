@@ -3,26 +3,35 @@ using API_Bestellingen_Voorbeeld.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
+
+/*
+ * Todo:
+ * - DTO's
+ */
+
+/*
+ * Opmerkingen:
+ * - Logger gebruiken?
+ * - Async nodig?? Grondige uitleg voorzien dan? 
+ */
+
 namespace API_Bestellingen_Voorbeeld.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
     {
-        //Toevoegen DTO's??
-
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ILogger<ProductController> _logger;
         private readonly BestellingVoorbeeldContext _context;
 
-        public ProductController(ILogger<WeatherForecastController> logger, BestellingVoorbeeldContext context)
+        public ProductController(ILogger<ProductController> logger, BestellingVoorbeeldContext context)
         {
-            _logger = logger; //Gebruiken, maar hoe?
+            _logger = logger;
             _context = context;
         }
 
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Product>>> GetProducten() {
-            //Is dit echt nodig??
             if (_context.Producten == null)
                 return NotFound();
 
@@ -33,8 +42,7 @@ namespace API_Bestellingen_Voorbeeld.Controllers
 
         [HttpGet("{id}")]
         public async Task<ActionResult<Product>> GetProduct(int id) {
-            //Is dit echt nodig??
-            if (_context.Bestellingen == null)
+            if (_context.Producten == null)
                 return NotFound();
 
             Product? product = await _context.Producten.FindAsync(id);
@@ -48,7 +56,6 @@ namespace API_Bestellingen_Voorbeeld.Controllers
         [HttpPost]
         public async Task<ActionResult<Product>> CreateProduct(Product product)
         {
-            //Is dit echt nodig??
             if (_context.Producten == null)
                 return NotFound();
 
@@ -86,7 +93,6 @@ namespace API_Bestellingen_Voorbeeld.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProduct(int id)
         {
-            //Is dit echt nodig??
             if (_context.Producten == null)
                 return NotFound();
 

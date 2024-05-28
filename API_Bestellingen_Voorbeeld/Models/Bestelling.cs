@@ -9,5 +9,6 @@
 
         public Gebruiker? Gebruiker { get; set; }
         public List<Bestellinglijn>? Bestellinglijnen { get; set; }
+        public List<Product>? Producten { get; set; }
     }
 }

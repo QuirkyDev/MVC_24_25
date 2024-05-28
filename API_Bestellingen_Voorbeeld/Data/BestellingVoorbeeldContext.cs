@@ -1,5 +1,6 @@
 ﻿using API_Bestellingen_Voorbeeld.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Hosting;
 
 namespace API_Bestellingen_Voorbeeld.Data
 {
@@ -20,17 +21,10 @@ namespace API_Bestellingen_Voorbeeld.Data
             modelBuilder.Entity<Bestelling>().ToTable("Bestelling");
             modelBuilder.Entity<Gebruiker>().ToTable("Gebruiker");
 
-            modelBuilder.Entity<Bestellinglijn>()
-                .HasOne(bl => bl.Bestelling)
-                .WithMany(b => b.Bestellinglijnen)
-                .HasForeignKey(bl => bl.BestellingId)
-                .OnDelete(DeleteBehavior.Restrict);
-
-            modelBuilder.Entity<Bestellinglijn>()
-                .HasOne(bl => bl.Product)
-                .WithMany(p => p.Bestellinglijnen)
-                .HasForeignKey(bl => bl.ProductId)
-                .OnDelete(DeleteBehavior.Restrict);
+            modelBuilder.Entity<Product>()
+                .HasMany(p => p.Bestellingen)
+                .WithMany(b => b.Producten)
+                .UsingEntity<Bestellinglijn>();
 
             modelBuilder.Entity<Bestelling>()
                 .HasOne(b => b.Gebruiker)

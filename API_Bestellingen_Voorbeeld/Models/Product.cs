@@ -6,6 +6,7 @@
         public string Naam { get; set; }
         public decimal Prijs { get; set; }
 
-        public List<Bestellinglijn>? Bestellinglijnen { get; set; } 
+        public List<Bestellinglijn>? Bestellinglijnen { get; set; }
+        public List<Bestelling>? Bestellingen { get; set; }
     }
 }
